@@ -1,0 +1,9 @@
+PyQt5
+pandas
+numpy
+pytesseract
+tensorflow
+opencv-python
+python-skimage
+openpyxl
+shutil
